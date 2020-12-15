@@ -10,7 +10,7 @@ This system is divided into two applications:
   
         (Video: https://drive.google.com/file/d/1Gm5l19b_10OkrvWvfQdbqVTIWpharjl8/view?usp=sharing) 
         
-        (Github: https://github.com/Azernasr/Rakna_Garage_Owner_App)
+        (Github: https://github.com/Azernasr/GrageOwnerApp)
       
   2. Car Owner App: 
   
